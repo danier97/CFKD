@@ -72,3 +72,14 @@ Our models and results can be found from the shared [folder](https://drive.googl
 
 ## Acknowledgement
 We use the [PyTracking](https://github.com/visionml/pytracking) framework developed by Danelljan et al. While the overall framework and source code is kept unchanged, we add loss functions, actors, and trainer implementations to fulfil our purpose.
+
+## Citation
+```
+@MastersThesis{Duolikun:2020,
+    author    =     {Danier Duolikun},
+    title     =     {{Knowledge Distillation for Discriminative Correlation Filter Trackers}},
+    school    =     {Univesity College London},
+    address   =     {United Kingdom},
+    year      =     {2020},
+}
+```
